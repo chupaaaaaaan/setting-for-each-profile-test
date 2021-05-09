@@ -1,4 +1,4 @@
-* setting-for-each-prof
+* setting-for-each-profile-test
 
   Mavenプロジェクトで、プロファイルごとに読み込む設定ファイルを替えるサンプル。
   
